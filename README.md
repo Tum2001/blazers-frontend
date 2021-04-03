@@ -17,7 +17,7 @@ Github Pages
 https://team-blazers.github.io/blazers-frontend/
 
 ## License
-MIT License
+MIT License.
 
 
 
